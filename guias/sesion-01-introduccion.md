@@ -92,7 +92,7 @@ Una vez dentro, lo que necesitamos hacer es dar a Devin acceso al repositorio. E
 
 *Dar 2-3 minutos para que todos lo completen. Resolver dudas rápidas.*
 
-Perfecto. Con esto Devin ya tiene acceso de lectura al repositorio y podemos trabajar sobre él durante toda la sesión de hoy.
+Perfecto. Con esto Devin ya tiene acceso al repositorio y podemos trabajar sobre él durante toda la sesión de hoy. En esta sesión solo le pediremos análisis — no le daremos instrucciones de modificar nada.
 
 *Nota para el formador: los accesos a devin.ai deben verificarse el día anterior. Contactar con los participantes con 24 horas de antelación para confirmar que todos tienen cuenta activa. No dedicar más de 3 minutos adicionales a resolver problemas de acceso en clase.*
 
