@@ -84,3 +84,6 @@ class TestListTasksByStatus:
     def test_invalid_status_returns_422(self, client):
         resp = client.get("/tasks/status/invalid")
         assert resp.status_code == 422
+        detail = resp.json()["detail"]
+        assert detail[0]["loc"] == ["path", "status"]
+        assert "pending" in detail[0]["msg"]
